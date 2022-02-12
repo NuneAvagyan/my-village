@@ -1,0 +1,90 @@
+body {
+  background-color: #7EB5A6;
+}
+
+h2 {
+  color: #FF2626;
+}
+
+h1 {
+  font-size: 55px;
+  color: #FF2626;
+}
+
+#first {
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 20px;
+  padding: 10px, 5px;
+  border: 3px solid #FFE6E6;
+}
+
+.hr, .hrr, .hrrr {
+  size: 2px;
+  width: 1330px;
+  color: #FFF1AF;
+}
+
+.hr {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.hrr {
+  margin-top: 500px;
+  margin-bottom: 100px;
+}
+
+.hrrr {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.details, .about, .favorite, .interestings, .contact {
+  color: white;
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.favorite {
+  margin-top: 50px;
+}
+
+.contact {
+  margin-bottom: 50px;
+}
+
+.details {
+  float: right;
+  width: 30%;
+}
+
+#img {
+  margin-top: 50px;
+  float: left;
+}
+
+.about {
+  float: left;
+  width: 30%;
+  margin-right: 70px;
+}
+
+.button {
+  float: right;
+  margin-left: 40px;
+  margin-top: 20px;
+  padding: 7px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button:hover {
+  background-color: #555555;
+  color: white;
+}

@@ -1,0 +1,241 @@
+body {
+  background: #BBF1FA;
+}
+.link {
+  font-family: 'Creepster', cursive;
+  list-style: none;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: black;
+  border-radius: 10px;
+  overflow: auto;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.link li {
+  float: left;
+}
+.link li a {
+  font-size: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-left: 10px;
+
+}
+.link li a:hover {
+  background-color: yellow;
+  color: black;
+}
+#NK {
+  margin-right: 420px;
+  margin-left: 10px;
+  color: white;
+}
+#NK:hover {
+  background-color: black;
+}
+#nkar {
+  margin-top: 20px;
+  float:left;
+  margin-left: 10px;
+
+}
+
+
+.details {
+  font-family: 'Creepster', cursive;
+  color: black;
+  border-style: double;
+  border-color: red;
+  border-radius: 30px;
+  border-width: thick;
+  float: left;
+  margin-left: 55px;
+  margin-top: 20px;
+  padding: 15px 80px;
+  font-size: 17px;
+  margin-right: 55px;
+}
+.details a {
+    text-decoration: none;
+      color: black;
+}
+.details a:hover {
+  color: red;
+}
+
+.naxsh {
+
+  float: right;
+  margin-right: 7px;
+}
+
+.Ek {
+
+  float: left;
+  margin-top: 90px;
+  margin-right: 50px;
+  margin-bottom: 120px;
+}
+
+.Ek img {
+  border-radius: 10%;
+}
+
+
+.about {
+  float: left;
+  font-size: 17px;
+  font-family: 'Creepster', cursive;
+  color: black;
+  border-style: double;
+  border-color: red;
+  border-radius: 30px;
+  border-width: thick;
+  padding: 30px 20px;
+  margin-left: 50px;
+  margin-right: 120px;
+  margin-top: 90px;
+  margin-bottom: 120px;
+
+}
+#button {
+  text-align: center;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 5px;
+
+}
+
+#button:hover {
+  background-color: yellow;
+  color: black;
+
+}
+
+
+table {
+  float: left;
+  margin-bottom: 10px;
+
+  margin-left: 10px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  font-family: 'Creepster', cursive;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+  color: black;
+  font-size: 18px;
+}
+
+tr:hover {
+  background-color: yellow;
+}
+
+
+.image {
+  margin-left: 20px;
+}
+
+.image img {
+  margin-left: 70px;
+  border-radius: 20px;
+  margin-bottom: 20px
+}
+
+.dp {
+  margin-top: 50px;
+}
+.dp img {
+  margin-top: 20px;
+  border-radius: 15px;
+  margin-left: 50px;
+
+
+}
+
+.sc {
+  float: right;
+  margin-right: 90px;
+  font-size: 17px;
+  font-family: 'Creepster', cursive;
+  color: black;
+  border-style: double;
+  border-color: red;
+  border-radius: 30px;
+  border-width: thick;
+  padding: 30px 20px;
+  margin-top: 180px;
+}
+
+
+.pb {
+  font-family: 'Creepster', cursive;
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+
+}
+.pb a{
+    text-decoration: none;
+    color: white;
+}
+
+.pb a:hover {
+
+  color: red;
+
+}
+
+.mu {
+  float: left;
+  margin-left: 100px;
+  font-size: 17px;
+  font-family: 'Creepster', cursive;
+  color: black;
+  border-style: double;
+  border-color: red;
+  border-radius: 30px;
+  border-width: thick;
+  padding: 30px 20px;
+  margin-top: 180px;
+  margin-right: 130px;
+}
+
+hr {
+
+  width: 1300px;
+  border: 1px dotted red;
+  margin-top: 450px;
+  margin-bottom: 20px;
+
+}
+
+.contact {
+  margin-left: 90px;
+  margin-top: 80px;
+  font-size: 20px;
+}
+
+.con {
+  float: left;
+  margin-right: 30px;
+
+}
+
+table a {
+  text-decoration: none;
+  font-family: 'Creepster', cursive;
+
+}

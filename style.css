@@ -1,0 +1,44 @@
+body {
+  background-image: url(20.jpg);
+}
+#W {
+  font-size: 100px;
+  color: white;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 2px solid white;
+
+}
+h2 {
+
+  color: white;
+  font-size: 50px;
+
+}
+
+.link {
+  list-style: none;
+  margin-top: 120px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: white;
+  border-radius: 10px;
+  overflow: auto;
+
+}
+.link li {
+  float: left;
+}
+.link li a {
+  font-size: 35px;
+  color: red;
+  padding: 20px 70px;
+  text-decoration: none;
+
+}
+.link li a:hover {
+  color: white;
+  background-color: red;
+}

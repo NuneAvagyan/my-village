@@ -1,0 +1,66 @@
+body {
+  background: #BBF1FA;
+}
+.link {
+  font-family: 'Creepster', cursive;
+  list-style: none;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: black;
+  border-radius: 10px;
+  overflow: auto;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.link li {
+  float: left;
+}
+.link li a {
+  font-size: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-left: 10px;
+
+}
+.link li a:hover {
+  background-color: yellow;
+  color: black;
+}
+#NK {
+  margin-right: 420px;
+  margin-left: 20px;
+}
+#NK:hover {
+  background-color: black;
+  color: white;
+}
+
+
+
+table, th, td {
+  border:3px solid red;
+  border-radius: 15px;
+  margin-top: 108px;
+
+}
+td, th {
+	padding: 4px 0;
+}
+.about {
+  float: left;
+  font-size: 17px;
+  font-family: 'Creepster', cursive;
+  color: black;
+  border-style: double;
+  border-color: red;
+  border-radius: 30px;
+  border-width: thick;
+  padding: 30px 20px;
+  margin-left: 90px;
+  margin-right: 100px;
+  margin-top: 70px;
+  margin-bottom: 100px;
+
+}
